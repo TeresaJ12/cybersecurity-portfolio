@@ -1,11 +1,11 @@
-# Cybersecurity Portfolio
+# 💻 Cybersecurity Portfolio
 
 A growing collection of hands-on labs and projects focused on networking and cybersecurity.  
 This repository documents my practical training as I transition into the cybersecurity field.
 
 ---
 
-## About This Repository
+## 📌 About This Repository
 
 This portfolio contains labs and projects built with tools such as:
 - Cisco Packet Tracer
@@ -17,7 +17,7 @@ The goal is to demonstrate practical skills, continuous learning, and real-world
 
 ---
 
-## Skills & Technologies
+## 📒 Skills & Technologies
 
 - **Networking:** Cisco Packet Tracer, Routing & Switching, VLANs, Subnetting
 - **Security Tools:** Wireshark, SIEM concepts
