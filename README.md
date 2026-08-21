@@ -12,7 +12,7 @@ This repository documents my practical training as I transition into the cyberse
 <h3>📌 About This Repository</h3>
 
 This portfolio contains labs and projects built with tools such as:
-<b>Cisco Packet Tracer
+- Cisco Packet Tracer
 - Wireshark
 - SIEM technologies
 - Other networking and security tools
