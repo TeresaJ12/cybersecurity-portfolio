@@ -1,14 +1,18 @@
-# 💻 Cybersecurity Portfolio
+<h1>Teresa Jim</h1>
+<img width="175" height="225" alt="Profile-pic" src="https://github.com/user-attachments/assets/f5b39e5d-e105-4459-8b7e-0ba8023778e2"/>
 
-A growing collection of hands-on labs and projects focused on networking and cybersecurity.  
-This repository documents my practical training as I transition into the cybersecurity field.
+
+<h2>💻 Cybersecurity Portfolio</h2>
+
+<p>A growing collection of hands-on labs and projects focused on networking and cybersecurity.  
+This repository documents my practical training as I transition into the cybersecurity field.</p>
 
 ---
 
-## 📌 About This Repository
+<h3>📌 About This Repository</h3>
 
 This portfolio contains labs and projects built with tools such as:
-- Cisco Packet Tracer
+<b>Cisco Packet Tracer
 - Wireshark
 - SIEM technologies
 - Other networking and security tools
