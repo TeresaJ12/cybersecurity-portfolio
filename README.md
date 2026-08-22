@@ -1,7 +1,7 @@
 <h1>Teresa Jim</h1>
 <img width="175" height="225" alt="Profile-pic" src="https://github.com/user-attachments/assets/f5b39e5d-e105-4459-8b7e-0ba8023778e2"/>
 <p><a href="https://www.linkedin.com/in/teresajimcybersecurity">Cybersecurity</a>, <a href="https://github.com/TeresaJ12">Programmer</a>, </p>
-<a href="https://github.com/users/TeresaJ12/projects/2">Certificates Timeline</a>
+<a href="https://github.com/users/TeresaJ12/projects/2">Certificates Timeline</a>, <a href="https://github.com/users/TeresaJ12/projects/1">Cisco Packet Tracer Labs</a>
 
 <h2>💻 Cybersecurity Portfolio</h2>
 
@@ -35,7 +35,7 @@ The goal is to demonstrate practical skills, continuous learning, and real-world
 
 ```text
 cybersecurity-portfolio/
-├── packet-tracer-labs/          # Cisco Packet Tracer projects
+├── cisco-packet-tracer-labs/    # Cisco Packet Tracer projects
 ├── wireshark-labs/              # Packet analysis exercises
 ├── siem-projects/               # SIEM-related work
 ├── other-projects/              # Additional cybersecurity labs
