@@ -1,6 +1,7 @@
 <h1>Teresa Jim</h1>
 <img width="175" height="225" alt="Profile-pic" src="https://github.com/user-attachments/assets/f5b39e5d-e105-4459-8b7e-0ba8023778e2"/>
-<a href="https://www.linkedin.com/in/teresajimcybersecurity">Cybersecurity</a>
+<p><a href="https://www.linkedin.com/in/teresajimcybersecurity">Cybersecurity</a>, </p>
+<a href="https://github.com/users/TeresaJ12/projects/2">Certificates Timeline</a>
 
 <h2>💻 Cybersecurity Portfolio</h2>
 
