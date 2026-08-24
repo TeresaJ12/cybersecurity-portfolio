@@ -1,6 +1,6 @@
 <h1>Teresa Jim</h1>
 <img width="175" height="225" alt="Profile-pic" src="https://github.com/user-attachments/assets/f5b39e5d-e105-4459-8b7e-0ba8023778e2"/>
-<p><a href="https://www.linkedin.com/in/teresajimcybersecurity">LinkedIn</a>, <a href="https://github.com/TeresaJ12">GitHub</a>, <a href="mailto: tmjim12@gmail.com">Email</a>, </p>
+<p><a href="https://www.linkedin.com/in/teresajimcybersecurity">LinkedIn Profile</a>, <a href="https://github.com/TeresaJ12">GitHub Portfolio</a>, <a href="mailto: tmjim12@gmail.com">Email Me</a>, <a href="https://app.notion.com/p/3bea1cb27234807aa68bc5fddf843128?pvs=25">Notion Portfolio</a></p>
 
 
 <a href="https://github.com/users/TeresaJ12/projects/2">Certificates Timeline</a>, <a href="https://github.com/users/TeresaJ12/projects/1">Cisco Packet Tracer Labs List</a>
