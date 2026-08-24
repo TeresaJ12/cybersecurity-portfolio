@@ -15,31 +15,29 @@ This repository documents my practical training as I transition into the cyberse
 <h3>📌 About This Repository</h3>
 
 This portfolio contains labs and projects built with tools such as:
-- Cisco Packet Tracer
-    - <a href="https://github.com/TeresaJ12/cisco-packet-tracer-lab01">Lab.01</a>
-- Wireshark
-- SIEM technologies
-- Other networking and security tools
+<ul>
+<li>Cisco Packet Tracer</li>
+<li>Wireshark</li>
+<li>SIEM technologies</li>
+<li>Other networking and security tools</li>
+</ul>
 
-The goal is to demonstrate practical skills, continuous learning, and real-world problem-solving.
-
----
-
-## 📒 Skills & Technologies
-
-- **Networking:** Cisco Packet Tracer, Routing & Switching, VLANs, Subnetting
-- **Security Tools:** Wireshark, SIEM concepts
-- **Protocols & Concepts:** TCP/IP, OSI Model, Network Security fundamentals
-- **Other:** [Add more as you grow – e.g., Linux, Python, Firewall configs, etc.]
+<p>The goal is to demonstrate practical skills, continuous learning, and real-world problem-solving.</p>
 
 ---
 
-## Repository Structure
+<h3>📒 Languages and Tools</h3>
 
-```text
-cybersecurity-portfolio/
-├── cisco-packet-tracer-labs/    # Cisco Packet Tracer projects
-├── wireshark-labs/              # Packet analysis exercises
-├── siem-projects/               # SIEM-related work
-├── other-projects/              # Additional cybersecurity labs
-└── README.md
+<ul>
+<li>**Networking:** Cisco Packet Tracer, Routing & Switching, VLANs, Subnetting</li>
+<li>**Security Tools:** Wireshark, SIEM concepts</li>
+<li>**Protocols & Concepts:** TCP/IP, OSI Model, Network Security fundamentals</li>
+<li>**Other:** [Add more as you grow – e.g., Linux, Python, Firewall configs, etc.]</li>
+</ul>
+
+---
+
+<h3>Projects</h3>
+<ul>
+<li><a href="https://github.com/TeresaJ12/cisco-packet-tracer-lab01">Cisco Packet Tracer Lab.01</a></li>
+</ul>
