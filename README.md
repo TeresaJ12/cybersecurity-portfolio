@@ -7,7 +7,7 @@
 
 <h2>💻 Cybersecurity Portfolio</h2>
 
-<p>A growing collection of hands-on labs and projects focused on networking and cybersecurity.  
+<p>This is a growing collection of hands-on labs and projects focused on networking and cybersecurity.  
 This repository documents my practical training as I transition into the cybersecurity field.</p>
 
 ---
@@ -22,7 +22,7 @@ This portfolio contains labs and projects built with tools such as:
 <li>Other networking and security tools</li>
 </ul>
 
-<p>The goal is to demonstrate practical skills, continuous learning, and real-world problem-solving.</p>
+<p>The goal is to my demonstrate practical skills, continuous learning, and real-world problem-solving.</p>
 
 ---
 
