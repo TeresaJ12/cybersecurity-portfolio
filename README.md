@@ -40,4 +40,5 @@ This portfolio contains labs and projects built with tools such as:
 <h3>Projects</h3>
 <ul>
 <li><a href="https://github.com/TeresaJ12/cisco-packet-tracer-lab01">Cisco Packet Tracer Lab.01</a></li>
+<li><a href="https://github.com/TeresaJ12/cisco-packet-tracer-lab02">Cisco Packet Tracer Lab.02</a></li>
 </ul>
